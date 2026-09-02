@@ -1,4 +1,4 @@
-### Hi there, I'm Haddel Haytham👋
+### Hi there, I'm Hadeel Haytham👋
 
 - 🎓 I'm a Computer Science and Artificial Intelligence student at Capital University (FCAI-HU).
 - 📊 Passionate about **Data Science, Data Analytics, and Machine Learning**.

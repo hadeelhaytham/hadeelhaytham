@@ -1,16 +1,16 @@
 Hi there, I'm Hadeel Haytham 👋
 
-- 🎓 I'm a Computer Science and Artificial Intelligence student at Cairo University (FCAI-CU).
+- 🎓 I'm a Computer Science and Artificial Intelligence student at Capital University (FCAI-HU).
 - 📊 Passionate about **Data Science, Data Analytics, and Machine Learning**.
 - 🌱 Always exploring new tools to turn raw data into actionable insights.
 
 ---
 
  🛠️ Tech Stack & Skills
-Programming & Libraries:** Python, Pandas, NumPy, Scikit-Learn
-Databases & Querying:** SQL, SQL Server Management Studio (SSMS)
-Data Visualization & BI:** Power BI, Microsoft Excel (Pivot Tables, Charts, Dashboards)
-Web Scraping & Tools:** BeautifulSoup, Jupyter Notebook, Git & GitHub, VS Code
+Programming & Libraries: Python, Pandas, NumPy, Scikit-Learn
+Databases & Querying: SQL, SQL Server Management Studio (SSMS)
+Data Visualization & BI: Power BI, Microsoft Excel (Pivot Tables, Charts, Dashboards)
+Web Scraping & Tools: BeautifulSoup, Jupyter Notebook, Git & GitHub, VS Code
 
 ---
 

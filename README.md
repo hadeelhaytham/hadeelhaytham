@@ -1,4 +1,4 @@
-Hi there, I'm Hadeel Haytham 👋
+### Hi there, I'm آHaddel Haytham👋
 
 - 🎓 I'm a Computer Science and Artificial Intelligence student at Capital University (FCAI-HU).
 - 📊 Passionate about **Data Science, Data Analytics, and Machine Learning**.
@@ -6,26 +6,26 @@ Hi there, I'm Hadeel Haytham 👋
 
 ---
 
- 🛠️ Tech Stack & Skills
-Programming & Libraries: Python, Pandas, NumPy, Scikit-Learn
-Databases & Querying: SQL, SQL Server Management Studio (SSMS)
-Data Visualization & BI: Power BI, Microsoft Excel (Pivot Tables, Charts, Dashboards)
-Web Scraping & Tools: BeautifulSoup, Jupyter Notebook, Git & GitHub, VS Code
+### 🛠️ Tech Stack & Skills
+* **Programming & Libraries:** Python, Pandas, NumPy, Scikit-Learn
+* **Databases & Querying:** SQL, SQL Server Management Studio (SSMS)
+* **Data Visualization & BI:** Power BI, Microsoft Excel (Pivot Tables, Charts, Dashboards)
+* **Web Scraping & Tools:** BeautifulSoup, Jupyter Notebook, Git & GitHub, VS Code
 
 ---
 
- 🚀 Featured Projects
-[Student Performance Dashboard](https://github.com/hadeelhaytham/My-Portfolio):** An interactive Excel dashboard featuring KPI cards, dynamic charts, and custom navigation to analyze student data.
+### 🚀 Featured Projects
+* **[Student Performance Dashboard](https://github.com/hadeelhaytham/My-Portfolio):** An interactive Excel dashboard featuring KPI cards, dynamic charts, and custom navigation to analyze student data.
 
 ---
 
- 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hadeelhaytham&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
-📫 Let's connect:
+### 📫 Let's connect:
 - [Upwork Profile](https://www.upwork.com/freelancers/~019a173cbb8ddfec71?mp_source=share)
 
 <!--

@@ -18,10 +18,9 @@
 * **[Student Performance Dashboard](https://github.com/hadeelhaytham/My-Portfolio):** An interactive Excel dashboard featuring KPI cards, dynamic charts, and custom navigation to analyze student data.
 
 ---
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadeelhaytham&show_icons=true" alt="GitHub Stats" />
-</p>
+### 💡 Core Focus
+- **Current Learning:** Advanced Machine Learning & Data Analytics Workflows
+- **Goal:** Delivering clean, data-driven solutions and interactive dashboards for freelance clients.
 
 
 ---
